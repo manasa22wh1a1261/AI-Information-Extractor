@@ -24,7 +24,7 @@ Setup Instructions
 Installation
 1.Clone the Repository:
 Copy code
-git clone https://github.com/manasa22wh1a1261/AI_Info_Extractor.git
+git clone https://github.com/manasa22wh1a1261/AI_Information_Extractor.git
 2.Navigate to the Project Directory:
 Copy code
 cd AI_Info_Extractor
